@@ -5,7 +5,7 @@ public class listPay {
     private double money;
     private int num;
     private double list;
-    private int all;
+    private double all;
 
     public String getName() {
         return name;
@@ -39,11 +39,11 @@ public class listPay {
         this.list = list;
     }
 
-    public int getAll() {
+    public double getAll() {
         return all;
     }
 
-    public void setAll(int all) {
+    public void setAll(double all) {
         this.all = all;
     }
 

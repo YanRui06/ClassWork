@@ -37,13 +37,13 @@ public class test01 {
         for (int i = 0; i < list.size(); i++) {
             listPay item = list.get(i);
             double itemTotal = item.getMoney() * item.getNum();
+            item.setList(itemTotal);
             totalAmount += itemTotal;
-
             System.out.printf("%-10s %-7.2f %-6d %-7.2f\n",
                     item.getName(),
                     item.getMoney(),
                     item.getNum(),
-                    itemTotal);
+                    item.getList());
         }
         System.out.println("=========================");
         System.out.printf("总计金额：%.2f元\n", totalAmount);
