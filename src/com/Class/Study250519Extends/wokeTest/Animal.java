@@ -17,4 +17,12 @@ public class Animal {
 
     public Animal() {
     }
+
+    public void walk()
+    {
+        System.out.println("Animal is walking");
+    }
+    public void eat(){
+
+    }
 }
