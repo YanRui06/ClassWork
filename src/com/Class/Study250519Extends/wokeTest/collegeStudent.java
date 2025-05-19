@@ -17,6 +17,5 @@ public class CollegeStudent extends Student {
     }
 
     public void CollegeStudent() {
-
     }
 }
