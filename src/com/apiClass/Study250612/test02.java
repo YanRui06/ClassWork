@@ -1,4 +1,4 @@
-package com.apiCLass.Class250605.Study250612;
+package com.apiClass.Study250612;
 
 import java.util.ArrayList;
 import java.util.List;

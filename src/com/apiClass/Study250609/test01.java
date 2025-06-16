@@ -1,4 +1,4 @@
-package com.apiCLass.Class250605.Study250609;
+package com.apiClass.Study250609;
 
 import java.time.LocalDate;
 

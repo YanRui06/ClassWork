@@ -1,4 +1,4 @@
-package com.apiCLass.Class250605.Study250609.ClassWork;
+package com.apiClass.Study250609.ClassWork;
 
 import java.time.Duration;
 import java.time.LocalDateTime;

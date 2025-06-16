@@ -1,4 +1,4 @@
-package com.apiCLass.Class250605.Study250612;
+package com.apiClass.Study250612;
 
 import java.util.Random;
 import java.util.Scanner;

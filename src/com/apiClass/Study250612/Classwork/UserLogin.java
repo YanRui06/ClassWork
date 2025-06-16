@@ -1,4 +1,4 @@
-package com.apiCLass.Class250605.Study250612.Classwork;
+package com.apiClass.Study250612.Classwork;
 
 import java.util.Scanner;
 
